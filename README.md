@@ -1,6 +1,5 @@
 Hi, I’m Lucas (-: \
-I’m interested in various Data Science/Engineering topics and mostly coding in Python and R.\
-I've done projects on Predictive ML, NLP, Descriptive Analytics etc. in various domains.
+I’m an Analytics Engineer.
 
 [LinkedIn✨](https://www.linkedin.com/in/lucas-silbernagel-1b7248143/)
 
