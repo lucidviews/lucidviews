@@ -1,5 +1,5 @@
 Hi, I’m Lucas (-: \
-I’m an Analytics Engineer.
+I’m a Resident Architect at dbt Labs.
 
 [LinkedIn✨](https://www.linkedin.com/in/lucas-silbernagel-1b7248143/)
 
